@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/hector/lift/elasticsearch/src/main/resources/logback.xml,/home/hector/lift/elasticsearch/target/scala-2.10/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/hector/lift/elasticsearch/src/main/resources/props,/home/hector/lift/elasticsearch/target/scala-2.10/classes/props)[0m
+[0m[[0mdebug[0m] [0m	(/home/hector/lift/elasticsearch/src/main/resources/props/default.logback.xml,/home/hector/lift/elasticsearch/target/scala-2.10/classes/props/default.logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/hector/lift/elasticsearch/src/main/resources/props/default.props,/home/hector/lift/elasticsearch/target/scala-2.10/classes/props/default.props)[0m

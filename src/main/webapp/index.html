@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+  <head><meta content="text/html; charset=UTF-8" http-equiv="content-type" /><title>Home</title></head>
+  <body class="lift:content_id=main">
+    <div id="main" class="lift:surround?with=default;at=content">
+      <!--<h2>Welcome to your project!</h2>-->
+      <p>
+
+        <div class="lift:SendTerm">
+            <form class="lift:form.ajax?class=form-search">
+                <div class="input-append">
+                    <input type="text" name="term" id="term" value="title">
+                    <button type="submit">Send ElasticSearch</button>
+                </div>
+            </form>
+        </div>
+
+        <div data-lift="AddTermComet">
+            <div id="render">
+                <!--render here-->
+            </div>
+        </div>
+
+      </p>
+    </div>
+  </body>
+</html>
